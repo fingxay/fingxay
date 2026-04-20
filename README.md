@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Fing 👋
 
-<!--
-**fingxay/fingxay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: Next.js, TypeScript, backend fundamentals
+- 💻 Interested in: Frontend / Fullstack Development
+- 🎯 Goal: Build real-world projects and improve problem-solving skills
+- 📫 Contact: fingchat99914@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React, Next.js, TypeScript
+- Tailwind CSS
+- Git, GitHub
+
+## 📌 Featured Projects
+- **Project One** — short description here
+- **Project Two** — short description here
+- **Project Three** — short description here
+
+## 🌐 Connect With Me
+- Facebook: https://www.facebook.com/nguyen.hong.tai/
